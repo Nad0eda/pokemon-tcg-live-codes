@@ -1,0 +1,12 @@
+title: "Pokémon TCG Live Codes — Daily Free Codes"
+description: "Daily updated free Pokémon TCG Live redeem codes."
+url: "https://nad0eda.github.io"
+baseurl: "/pokemon-tcg-live-codes"
+
+# Add a canonical link so Google understands:
+# Main mirror - https://ptcgcode.com/
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://ptcgcode.com"
