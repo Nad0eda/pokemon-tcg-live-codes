@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/PTCGL-Daily%20Codes-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Updates-24h-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+</p>
+
 # Pokémon TCG Live — Free Daily Codes (1/day)
 
 This repository provides information about **free Pokémon TCG Live codes** and the automated system that refreshes new codes **once every 24 hours**.
