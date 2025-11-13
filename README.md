@@ -7,6 +7,8 @@
 
 # Pokémon TCG Live — Free Daily Codes (1/day)
 
+[![Visit ptcgcode.com](https://img.shields.io/badge/Website-ptcgcode.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ptcgcode.com)
+
 This repository provides information about **free Pokémon TCG Live codes** and the automated system that refreshes new codes **once every 24 hours**.
 
 If you play **Pokémon TCG Live (PTCGL)**, this project helps you understand how daily codes work, how cooldown limits function, and where to redeem them.
